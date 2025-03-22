@@ -6,10 +6,6 @@ Old wooden houses line the shore, with colorful flags waving. Pirates and
 treasure hunters gather here for excitement and stories of hidden treasure.
 
 #harbour
-#market
-#tavern
-#shipyard
-#passage
 
 # choices
 - @harbour_master_hut: Visit the Harbour Master's Hut
